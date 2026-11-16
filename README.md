@@ -1,1 +1,1 @@
-# qm7-legal-pages
+# qm7-site
